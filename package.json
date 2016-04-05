@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "try.js",
-  "dependencies": {},
+  "dependencies": {
+    "wu": "^2.1.0"
+  },
   "devDependencies": {
     "babel-cli": "^6.6.5",
     "babel-plugin-transform-async-to-generator": "^6.7.4",
